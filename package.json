@@ -3,10 +3,10 @@
   "description": "SvelteKit to deploy your project using AWS CDK.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MikeBild/sveltekit-adapter-aws.git"
+    "url": "git+https://github.com/trandrew24/debug-lambda.git"
   },
   "bugs": {
-    "url": "https://github.com/MikeBild/sveltekit-adapter-aws/issues"
+    "url": "https://github.com/trandrew24/debug-lambda/issues"
   },
   "homepage": "https://github.com/MikeBild/sveltekit-adapter-aws#readme",
   "license": "MIT",
