@@ -50,7 +50,7 @@ export async function handler(event) {
     return resp;
   }
 
-  console.log("If we make it here, then I made changes");
+  console.log("If we make it here, then I made changes.");
   return {
     statusCode: 404,
     // body: 'Not found.',
